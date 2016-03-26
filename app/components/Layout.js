@@ -5,7 +5,7 @@ var Link = Router.Link;
 var Layout = React.createClass({
   render: function(){
     return (
-      <div className="container">
+      <div className="main-container">
         <nav className="navbar navbar-default" role="navigation">
           <div className="navbar-header">
             <Link className="navbar-brand" to="/">5280 Code</Link>
